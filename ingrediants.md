@@ -1,0 +1,12 @@
+basmati rice;
+chicken;
+ghee;
+curd;
+red chilli powder;
+turmeic;
+biryani leaf;
+spices;
+kaju;
+badam;
+mint;
+onions;
